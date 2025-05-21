@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Movimientos Chicanos y Derechos Civiles</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; background: #f4f4f4; }
+    header, section, footer { padding: 20px; margin: 10px; background: white; border-radius: 8px; }
+    nav { background: #333; color: white; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    h1, h2 { color: #333; }
+    .gallery img { width: 100%; max-width: 300px; margin: 10px; }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="#tesis">Tesis</a>
+  <a href="#movimientos">Movimientos</a>
+  <a href="#personajes">Personajes</a>
+  <a href="#galeria">Galería</a>
+  <a href="#fuentes">Fuentes</a>
+</nav>
+
+<header>
+  <h1>Movimientos Chicanos y Derechos Civiles</h1>
+  <p>Una mirada a la lucha por la igualdad y el reconocimiento de los derechos civiles de la comunidad chicana en los Estados Unidos.</p>
+</header>
+
+<section id="tesis">
+  <h2>Tesis</h2>
+  <p>El movimiento chicano fue una lucha fundamental para que los méxico-americanos reclamaran sus derechos civiles, identidad cultural y representación política en los Estados Unidos. A través de múltiples movimientos sociales entre los años 1940 y 1980, los chicanos enfrentaron desafíos significativos como la discriminación sistemática, exclusión educativa y violencia institucional, contribuyendo enormemente al avance de los derechos civiles en América.</p>
+</section>
+
+<section id="movimientos">
+  <h2>Movimientos y Obstáculos</h2>
+  <ul>
+    <li><strong>1940s:</strong> Veteranos chicanos regresan de la Segunda Guerra Mundial y enfrentan discriminación.</li>
+    <li><strong>1965:</strong> Huelga de trabajadores agrícolas en Delano liderada por César Chávez y Dolores Huerta.</li>
+    <li><strong>1968:</strong> "Walkouts" estudiantiles en Los Ángeles para exigir mejores condiciones educativas.</li>
+    <li><strong>1970:</strong> Moratoria Chicana contra la guerra de Vietnam en East L.A., reprimida violentamente.</li>
+  </ul>
+</section>
+
+<section id="personajes">
+  <h2>Personajes Destacados</h2>
+  <ul>
+    <li><strong>César Chávez (1927-1993):</strong> Líder sindical y cofundador de la United Farm Workers, luchó por los derechos de los trabajadores agrícolas.</li>
+    <li><strong>Dolores Huerta (1930-):</strong> Activista y cofundadora de la UFW, conocida por el lema "¡Sí se puede!".</li>
+    <li><strong>Rodolfo "Corky" Gonzales (1928-2005):</strong> Poeta y activista que promovió el nacionalismo chicano y fundó el movimiento "Crusade for Justice".</li>
+    <li><strong>Sal Castro (1933-2013):</strong> Profesor clave en las huelgas estudiantiles de 1968 en L.A.</li>
+  </ul>
+</section>
+
+<section id="galeria">
+  <h2>Galería de Documentos Reales</h2>
+  <div class="gallery">
+    <!-- Sustituye los siguientes enlaces por URLs reales -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Cesar_chavez_speech.jpg" alt="César Chávez dando un discurso">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Chicano_Moratorium.jpg" alt="Chicano Moratorium 1970">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Dolores_Huerta_1965.jpg" alt="Dolores Huerta, 1965">
+  </div>
+</section>
+
+<section id="fuentes">
+  <h2>Fuentes y Agradecimientos</h2>
+  <ul>
+    <li><a href="https://es.wikipedia.org/wiki/Movimiento_chicano" target="_blank">Wikipedia - Movimiento Chicano</a></li>
+    <li><a href="https://www.pbs.org/latino-americans/en/article/chicano/" target="_blank">PBS - Chicano</a></li>
+    <li><a href="https://www.history.com/topics/hispanic-history/chicano-movement" target="_blank">History.com - Chicano Movement</a></li>
+  </ul>
+  <p>Gracias a estas plataformas educativas y abiertas por compartir información esencial sobre los movimientos de derechos civiles chicanos.</p>
+</section>
+
+<footer>
+  <p>Hecho por [Tu Nombre] - Proyecto escolar</p>
+</footer>
+
+</body>
+</html>
